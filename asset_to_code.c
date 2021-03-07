@@ -1,5 +1,17 @@
 /****** This is an example of loading Image Assets and saving them as Data
  ****** Used for my game project
+ ****** Once the files are generated, you can then create for example
+ ****** A data.h file and do ,#include <...> for each of the generated files, ex.:
+ ******
+ ****** #include <A8COLORS.h>
+ ****** #include <Font_JJ.h>
+ ****** #include <Font_VCR.h>
+ ****** #include <ball1.h>
+ ****** #include <ball2.h>
+ ****** #include <ball3.h>
+ ****** #include <ATASCII.h>
+ ****** #include <ATARI_BIG.h>
+ ****** #include <title.h>
  ******/
 
 #pragma once
