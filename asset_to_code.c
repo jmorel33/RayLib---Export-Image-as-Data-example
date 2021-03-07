@@ -1,3 +1,7 @@
+/****** This is an example of loading Image Assets and saving them as Data
+ ****** Used for my game project
+ ******/
+
 #pragma once
 
 #include <raylib.h>
